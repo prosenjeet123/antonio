@@ -1,5 +1,5 @@
 # Antonio
-Welcome to Antonio 2.0 Admin theme
+Welcome to Antonio 2.2 Admin theme
 
 ![alt text](https://i.ibb.co/Bg9X1Nm/feedback.jpg)
 
